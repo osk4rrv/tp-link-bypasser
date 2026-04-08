@@ -1,0 +1,3 @@
+C:/Users/PC/source/repos/tplink parental control bypasser/build/CMakeFiles/TPLinkBypasser.dir
+C:/Users/PC/source/repos/tplink parental control bypasser/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/PC/source/repos/tplink parental control bypasser/build/CMakeFiles/ZERO_CHECK.dir

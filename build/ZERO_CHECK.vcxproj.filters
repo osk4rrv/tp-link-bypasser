@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\PC\source\repos\tplink parental control bypasser\build\CMakeFiles\60b691b372fd27bdb1979c6ddd255b9e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BE26F02C-0286-32B4-8B6B-A13A874C51ED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
