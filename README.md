@@ -8,3 +8,5 @@ REPOSITORIES I USED:
 Contact @osk4rrv on telegram if u need support.
 Join voidtools.cc project now! https://t.me/voidtoolscc
 Created by @osk4rrv. Protected by MIT License.
+
+DOWNLOAD .EXE FILE HERE: https://github.com/osk4rrv/tp-link-bypasser/releases/tag/V1
